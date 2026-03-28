@@ -4,6 +4,8 @@ Resume Screener web application that allows HR users to upload multiple resumes,
 
 ---
 
+Demo video Link - [Demo](https://drive.google.com/file/d/1AUES8tK_gGc4sMgb-em4gp3wzoyENelU/view?usp=sharing)
+
 ## Features
 
 ### 📄 Resume Upload & Parsing
