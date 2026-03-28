@@ -1,4 +1,4 @@
-# 🧠 AI Resume Screener
+# Resume Screener
 
 Resume Screener web application that allows HR users to upload multiple resumes, define a Job Description (JD), and automatically rank candidates based on their relevance.
 
@@ -8,7 +8,7 @@ Demo video Link - [Demo](https://drive.google.com/file/d/1AUES8tK_gGc4sMgb-em4gp
 
 ## Features
 
-### 📄 Resume Upload & Parsing
+### Resume Upload & Parsing
 - Upload multiple PDF resumes at once
 - Extract raw text using PDF parsing libraries
 - Parse key information:
@@ -28,7 +28,7 @@ Demo video Link - [Demo](https://drive.google.com/file/d/1AUES8tK_gGc4sMgb-em4gp
 
 ---
 
-### 🤖 ML-Based Matching & Scoring
+### ML-Based Matching & Scoring
 - Implemented **TF-IDF + Cosine Similarity**
 - Computes match score (0–100%) for each resume
 - (Optional improvement ready: SBERT for semantic similarity)
